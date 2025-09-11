@@ -4,7 +4,7 @@
   "private": true,
   "devDependencies": {
     "babel-plugin-emotion": "^10.0.9",
-    "react-scripts": "3.0.1"
+    "react-scripts": "5.0.1"
   },
   "dependencies": {
     "apollo-client-preset": "^1.0.8",
